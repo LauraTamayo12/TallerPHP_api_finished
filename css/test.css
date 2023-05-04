@@ -1,0 +1,24 @@
+BODY {color:rgb(0, 60, 128);
+   font-family:monospace;
+   background: gainsboro;
+}
+
+
+.title {
+   color: mediumslateblue;
+   font: bold;
+   font-family: 'Courier New', Courier;
+}
+
+P {color:red; 
+   font-size:20px;
+   font-family:Verdana;
+   font-weight:bold;
+   font-style:italic;
+   line-height:30px;
+   letter-spacing:5px;
+   text-decoration:underline;
+   text-transform:capitalize;
+   text-align:left;
+   text-indent:30px;
+  }
